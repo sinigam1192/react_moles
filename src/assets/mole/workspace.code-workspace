@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../portfolio/web-portfolio"
+		},
+		{
+			"path": "../../../../../ruby/learn-test/test"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../rails/growber"
+		},
+		{
+			"path": "../../../../../rails/testadmin"
+		}
+	]
+}
