@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_moles/static/css/main.c5b55e63.chunk.css",
+    "main.js": "/react_moles/static/js/main.d2c11066.chunk.js",
+    "main.js.map": "/react_moles/static/js/main.d2c11066.chunk.js.map",
+    "runtime-main.js": "/react_moles/static/js/runtime-main.297f21fb.js",
+    "runtime-main.js.map": "/react_moles/static/js/runtime-main.297f21fb.js.map",
+    "static/js/2.bcd70707.chunk.js": "/react_moles/static/js/2.bcd70707.chunk.js",
+    "static/js/2.bcd70707.chunk.js.map": "/react_moles/static/js/2.bcd70707.chunk.js.map",
+    "static/js/3.1e13d886.chunk.js": "/react_moles/static/js/3.1e13d886.chunk.js",
+    "static/js/3.1e13d886.chunk.js.map": "/react_moles/static/js/3.1e13d886.chunk.js.map",
+    "index.html": "/react_moles/index.html",
+    "static/css/main.c5b55e63.chunk.css.map": "/react_moles/static/css/main.c5b55e63.chunk.css.map",
+    "static/js/2.bcd70707.chunk.js.LICENSE.txt": "/react_moles/static/js/2.bcd70707.chunk.js.LICENSE.txt",
+    "static/media/death.0b2278fc.gif": "/react_moles/static/media/death.0b2278fc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.297f21fb.js",
+    "static/js/2.bcd70707.chunk.js",
+    "static/css/main.c5b55e63.chunk.css",
+    "static/js/main.d2c11066.chunk.js"
+  ]
+}
