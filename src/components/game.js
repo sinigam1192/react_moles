@@ -41,14 +41,14 @@ class Game extends React.Component{
             return( 
                 <Play
                     changeEvent={argEvent => this.changeEvent(argEvent)}
-                    sendState={}
+                    // sendState={}
                 />
             );
         }else if(event === "result"){
             return( 
                 <Result
                     changeEvent={argEvent => this.changeEvent(argEvent)}        
-                    point = 
+                    // point = 
                 />
             );
         };
